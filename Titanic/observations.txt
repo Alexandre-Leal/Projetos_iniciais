@@ -1,0 +1,3 @@
+Some tips:
+
+The titanic.csv dataset can be used as train dataset too.

@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Usefull commands
+#Check the python version
+python -V 
+
+
+
 # Distribution / packaging
 .Python
 build/
